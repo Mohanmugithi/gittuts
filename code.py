@@ -1,3 +1,6 @@
 print("varun") 
 print("mohan")
 print("varun mohan")
+print("varun") 
+print("mohan")
+print("varun mohan")
